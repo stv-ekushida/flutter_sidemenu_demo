@@ -5,7 +5,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: Text("Homepage"),
+        child: Text("HomePage"),
       ),
     );
   }
